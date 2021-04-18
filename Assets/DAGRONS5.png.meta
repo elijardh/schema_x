@@ -1,0 +1,2059 @@
+fileFormatVersion: 2
+guid: cd3e2240a18a82e43a95cfbbfa55f9f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1068976298475803540
+    second: DAGRONS5_0
+  - first:
+      213: 8632454819477333034
+    second: DAGRONS5_1
+  - first:
+      213: 799249744905560838
+    second: DAGRONS5_2
+  - first:
+      213: 6219890704581474238
+    second: DAGRONS5_3
+  - first:
+      213: 456802005778315387
+    second: DAGRONS5_4
+  - first:
+      213: 60011977860545447
+    second: DAGRONS5_5
+  - first:
+      213: -2192521149065361449
+    second: DAGRONS5_6
+  - first:
+      213: 8258118265870218700
+    second: DAGRONS5_7
+  - first:
+      213: -696986304587703265
+    second: DAGRONS5_8
+  - first:
+      213: 8957373044375142523
+    second: DAGRONS5_9
+  - first:
+      213: -8211623261555991196
+    second: DAGRONS5_10
+  - first:
+      213: -901608721426682548
+    second: DAGRONS5_11
+  - first:
+      213: -6357392227220463945
+    second: DAGRONS5_12
+  - first:
+      213: 8535128189965592089
+    second: DAGRONS5_13
+  - first:
+      213: 1511099858346640851
+    second: DAGRONS5_14
+  - first:
+      213: 6078550992846933199
+    second: DAGRONS5_15
+  - first:
+      213: -848141201871984739
+    second: DAGRONS5_16
+  - first:
+      213: -5156019820496590417
+    second: DAGRONS5_17
+  - first:
+      213: -6068973039474008903
+    second: DAGRONS5_18
+  - first:
+      213: 2824983831633853444
+    second: DAGRONS5_19
+  - first:
+      213: 5072855627249591454
+    second: DAGRONS5_20
+  - first:
+      213: -4531759496670141119
+    second: DAGRONS5_21
+  - first:
+      213: 2536033748401438865
+    second: DAGRONS5_22
+  - first:
+      213: -4628056344493001440
+    second: DAGRONS5_23
+  - first:
+      213: -7412558329215025618
+    second: DAGRONS5_24
+  - first:
+      213: 6228591316270204034
+    second: DAGRONS5_25
+  - first:
+      213: 1508786510464448650
+    second: DAGRONS5_26
+  - first:
+      213: 4597087165857426962
+    second: DAGRONS5_27
+  - first:
+      213: 8225950868308338463
+    second: DAGRONS5_28
+  - first:
+      213: -6616107664707812685
+    second: DAGRONS5_29
+  - first:
+      213: 4728156985722781343
+    second: DAGRONS5_30
+  - first:
+      213: -7963510092762674358
+    second: DAGRONS5_31
+  - first:
+      213: -7019650074326192843
+    second: DAGRONS5_32
+  - first:
+      213: 3304604057357702190
+    second: DAGRONS5_33
+  - first:
+      213: 5480606465488664020
+    second: DAGRONS5_34
+  - first:
+      213: -5358111870319778021
+    second: DAGRONS5_35
+  - first:
+      213: -274489969386022331
+    second: DAGRONS5_36
+  - first:
+      213: 7901911674185421535
+    second: DAGRONS5_37
+  - first:
+      213: 6836366834554417841
+    second: DAGRONS5_38
+  - first:
+      213: 3813895290918643949
+    second: DAGRONS5_39
+  - first:
+      213: 1814272828486288693
+    second: DAGRONS5_40
+  - first:
+      213: -7815351460158428186
+    second: DAGRONS5_41
+  - first:
+      213: -5036387237188016635
+    second: DAGRONS5_42
+  - first:
+      213: -8495202842372584014
+    second: DAGRONS5_43
+  - first:
+      213: -407685136551307629
+    second: DAGRONS5_44
+  - first:
+      213: -8404909870099606180
+    second: DAGRONS5_45
+  - first:
+      213: -6685389899881892646
+    second: DAGRONS5_46
+  - first:
+      213: -7723395651556742211
+    second: DAGRONS5_47
+  - first:
+      213: 3506531733348597177
+    second: DAGRONS5_48
+  - first:
+      213: -8386832446657331114
+    second: DAGRONS5_49
+  - first:
+      213: -8798727878980566058
+    second: DAGRONS5_50
+  - first:
+      213: 3473076132810881546
+    second: DAGRONS5_51
+  - first:
+      213: -911407299350585449
+    second: DAGRONS5_52
+  - first:
+      213: -8677973910277492728
+    second: DAGRONS5_53
+  - first:
+      213: -392781332659394276
+    second: DAGRONS5_54
+  - first:
+      213: 6517987638120405329
+    second: DAGRONS5_55
+  - first:
+      213: -4485945720487452469
+    second: DAGRONS5_56
+  - first:
+      213: 7018461196225253791
+    second: DAGRONS5_57
+  - first:
+      213: -2817481675353822253
+    second: DAGRONS5_58
+  - first:
+      213: -6290503787758913887
+    second: DAGRONS5_59
+  - first:
+      213: -2205391381979072884
+    second: DAGRONS5_60
+  - first:
+      213: -8978145506921933431
+    second: DAGRONS5_61
+  - first:
+      213: -4445957651222017092
+    second: DAGRONS5_62
+  - first:
+      213: 1293209010786313031
+    second: DAGRONS5_63
+  - first:
+      213: 415837994857145398
+    second: DAGRONS5_64
+  - first:
+      213: 2145064583853086540
+    second: DAGRONS5_65
+  - first:
+      213: 850860093273983566
+    second: DAGRONS5_66
+  - first:
+      213: -232051147760356668
+    second: DAGRONS5_67
+  - first:
+      213: 4275932197758773003
+    second: DAGRONS5_68
+  - first:
+      213: -7631514859775531835
+    second: DAGRONS5_69
+  - first:
+      213: -1228981752597773488
+    second: DAGRONS5_70
+  - first:
+      213: -4222345321206207432
+    second: DAGRONS5_71
+  - first:
+      213: 3996412411615078056
+    second: DAGRONS5_72
+  - first:
+      213: -5613502668499760336
+    second: DAGRONS5_73
+  - first:
+      213: -5676883258593576940
+    second: DAGRONS5_74
+  - first:
+      213: -7792735186668032150
+    second: DAGRONS5_75
+  - first:
+      213: -8432111600122256738
+    second: DAGRONS5_76
+  - first:
+      213: -2286346476062694645
+    second: DAGRONS5_77
+  - first:
+      213: 38741899361018856
+    second: DAGRONS5_78
+  - first:
+      213: -2539009175155519975
+    second: DAGRONS5_79
+  - first:
+      213: 7286402971340679219
+    second: DAGRONS5_80
+  - first:
+      213: 5334666644778003971
+    second: DAGRONS5_81
+  - first:
+      213: 9142597722307450854
+    second: DAGRONS5_82
+  - first:
+      213: -9220806666466996598
+    second: DAGRONS5_83
+  - first:
+      213: -3682292227915688133
+    second: DAGRONS5_84
+  - first:
+      213: 7765347173366553687
+    second: DAGRONS5_85
+  - first:
+      213: -6983290215114223991
+    second: DAGRONS5_86
+  - first:
+      213: 6128512971767006859
+    second: DAGRONS5_87
+  - first:
+      213: 3157673357512724656
+    second: DAGRONS5_88
+  - first:
+      213: 7972494244300114268
+    second: DAGRONS5_89
+  - first:
+      213: 4956498404985949725
+    second: DAGRONS5_90
+  - first:
+      213: 5483366407510189060
+    second: DAGRONS5_91
+  - first:
+      213: -3316529405783064331
+    second: DAGRONS5_92
+  - first:
+      213: -4349809860939787153
+    second: DAGRONS5_93
+  - first:
+      213: 4451318172259417300
+    second: DAGRONS5_94
+  - first:
+      213: 4504196059590276922
+    second: DAGRONS5_95
+  - first:
+      213: 541488324350772902
+    second: DAGRONS5_96
+  - first:
+      213: 1929805559464711256
+    second: DAGRONS5_97
+  - first:
+      213: 9094978663899656778
+    second: DAGRONS5_98
+  - first:
+      213: 5273083697105581568
+    second: DAGRONS5_99
+  - first:
+      213: 2322658734719095856
+    second: DAGRONS5_100
+  - first:
+      213: 2972535391944122080
+    second: DAGRONS5_101
+  - first:
+      213: -6158033864338562839
+    second: DAGRONS5_102
+  - first:
+      213: -1398205231309973040
+    second: DAGRONS5_103
+  - first:
+      213: 9085694379702090643
+    second: DAGRONS5_104
+  - first:
+      213: -5055761127914091061
+    second: DAGRONS5_105
+  - first:
+      213: 3342441420251854856
+    second: DAGRONS5_106
+  - first:
+      213: 5044189105834242706
+    second: DAGRONS5_107
+  - first:
+      213: -7658456301875785867
+    second: DAGRONS5_108
+  - first:
+      213: -6309224946840490766
+    second: DAGRONS5_109
+  - first:
+      213: 1361567438030850939
+    second: DAGRONS5_110
+  - first:
+      213: 7330094153482824418
+    second: DAGRONS5_111
+  - first:
+      213: -6594204907275425154
+    second: DAGRONS5_112
+  - first:
+      213: 6613348021240325882
+    second: DAGRONS5_113
+  - first:
+      213: 6610245275101144301
+    second: DAGRONS5_114
+  - first:
+      213: 3957198993985720732
+    second: DAGRONS5_115
+  - first:
+      213: -2084978297538907514
+    second: DAGRONS5_116
+  - first:
+      213: 6623692656760797732
+    second: DAGRONS5_117
+  - first:
+      213: 9137857020834981935
+    second: DAGRONS5_118
+  - first:
+      213: 5527754780879528411
+    second: DAGRONS5_119
+  - first:
+      213: -6676202279551819613
+    second: DAGRONS5_120
+  - first:
+      213: 9190677792715775267
+    second: DAGRONS5_121
+  - first:
+      213: -7729419638147501153
+    second: DAGRONS5_122
+  - first:
+      213: 7096941094010593356
+    second: DAGRONS5_123
+  - first:
+      213: 7061887867140411898
+    second: DAGRONS5_124
+  - first:
+      213: 7528298886164148218
+    second: DAGRONS5_125
+  - first:
+      213: -7691889580718651829
+    second: DAGRONS5_126
+  - first:
+      213: 7876953451536586880
+    second: DAGRONS5_127
+  - first:
+      213: -1994121113952244525
+    second: DAGRONS5_128
+  - first:
+      213: 5252961192679300293
+    second: DAGRONS5_129
+  - first:
+      213: -2577193589547487432
+    second: DAGRONS5_130
+  - first:
+      213: 9217534479441702664
+    second: DAGRONS5_131
+  - first:
+      213: 6532368688302783416
+    second: DAGRONS5_132
+  - first:
+      213: -2187413274956814194
+    second: DAGRONS5_133
+  - first:
+      213: 1157422941067382616
+    second: DAGRONS5_134
+  - first:
+      213: -1850631468195905544
+    second: DAGRONS5_135
+  - first:
+      213: -3671418458612995603
+    second: DAGRONS5_136
+  - first:
+      213: -357608343688248037
+    second: DAGRONS5_137
+  - first:
+      213: -2805896426024549223
+    second: DAGRONS5_138
+  - first:
+      213: 2907770173284977265
+    second: DAGRONS5_139
+  - first:
+      213: 2110465316132062351
+    second: DAGRONS5_140
+  - first:
+      213: -2418985865397216257
+    second: DAGRONS5_141
+  - first:
+      213: -2944292012130749656
+    second: DAGRONS5_142
+  - first:
+      213: 2565174649869082059
+    second: DAGRONS5_143
+  - first:
+      213: 6499851591012195699
+    second: DAGRONS5_144
+  - first:
+      213: 2371966770332399726
+    second: DAGRONS5_145
+  - first:
+      213: 1351944937057094713
+    second: DAGRONS5_146
+  - first:
+      213: 723969813459280309
+    second: DAGRONS5_147
+  - first:
+      213: 6392309145213029351
+    second: DAGRONS5_148
+  - first:
+      213: 5306691741466914367
+    second: DAGRONS5_149
+  - first:
+      213: -5116984922838090181
+    second: DAGRONS5_150
+  - first:
+      213: -172512281969128105
+    second: DAGRONS5_151
+  - first:
+      213: -4153067435918222221
+    second: DAGRONS5_152
+  - first:
+      213: -4441408090747291729
+    second: DAGRONS5_153
+  - first:
+      213: -2876018717194739761
+    second: DAGRONS5_154
+  - first:
+      213: 4904108192434681193
+    second: DAGRONS5_155
+  - first:
+      213: 6481161778419892552
+    second: DAGRONS5_156
+  - first:
+      213: -4892543080737477028
+    second: DAGRONS5_157
+  - first:
+      213: 7525187078769982406
+    second: DAGRONS5_158
+  - first:
+      213: -4847237535055344201
+    second: DAGRONS5_159
+  - first:
+      213: -558874388943984050
+    second: DAGRONS5_160
+  - first:
+      213: -1278989925232624937
+    second: DAGRONS5_161
+  - first:
+      213: 4258017719933022651
+    second: DAGRONS5_162
+  - first:
+      213: -5577662826728324082
+    second: DAGRONS5_163
+  - first:
+      213: -8418555627879061109
+    second: DAGRONS5_164
+  - first:
+      213: 2863279463543237302
+    second: DAGRONS5_165
+  - first:
+      213: -2455468495729384973
+    second: DAGRONS5_166
+  - first:
+      213: -8241309128730495538
+    second: DAGRONS5_167
+  - first:
+      213: -2734489960295564035
+    second: DAGRONS5_168
+  - first:
+      213: 5034047441431961666
+    second: DAGRONS5_169
+  - first:
+      213: -7555575617818770100
+    second: DAGRONS5_170
+  - first:
+      213: 5548494302800600992
+    second: DAGRONS5_171
+  - first:
+      213: -8899452872012607656
+    second: DAGRONS5_172
+  - first:
+      213: -4985895981923778262
+    second: DAGRONS5_173
+  - first:
+      213: -6157258966514124753
+    second: DAGRONS5_174
+  - first:
+      213: 8350606987214800693
+    second: DAGRONS5_175
+  - first:
+      213: 8900772255900781287
+    second: DAGRONS5_176
+  - first:
+      213: 6393815659612295008
+    second: DAGRONS5_177
+  - first:
+      213: -4015847158159170217
+    second: DAGRONS5_178
+  - first:
+      213: 7914663627282476591
+    second: DAGRONS5_179
+  - first:
+      213: 3906926172022405822
+    second: DAGRONS5_180
+  - first:
+      213: 4284236034027887705
+    second: DAGRONS5_181
+  - first:
+      213: -7712790724652842700
+    second: DAGRONS5_182
+  - first:
+      213: 5129940375758682096
+    second: DAGRONS5_183
+  - first:
+      213: 5459497211579791658
+    second: DAGRONS5_184
+  - first:
+      213: 7574078177246448702
+    second: DAGRONS5_185
+  - first:
+      213: 6069268147374748400
+    second: DAGRONS5_186
+  - first:
+      213: -2203435323685492116
+    second: DAGRONS5_187
+  - first:
+      213: 1956141771785643453
+    second: DAGRONS5_188
+  - first:
+      213: -3847630550460043197
+    second: DAGRONS5_189
+  - first:
+      213: 7750133465498265446
+    second: DAGRONS5_190
+  - first:
+      213: -6818942458426838464
+    second: DAGRONS5_191
+  - first:
+      213: -4155143001619905260
+    second: DAGRONS5_192
+  - first:
+      213: -6684706722136955463
+    second: DAGRONS5_193
+  - first:
+      213: -3083300957606120864
+    second: DAGRONS5_194
+  - first:
+      213: 7111400068992183667
+    second: DAGRONS5_195
+  - first:
+      213: -6017822377597793945
+    second: DAGRONS5_196
+  - first:
+      213: 8668226827462759634
+    second: DAGRONS5_197
+  - first:
+      213: -846645174299266677
+    second: DAGRONS5_198
+  - first:
+      213: -5832351151521945223
+    second: DAGRONS5_199
+  - first:
+      213: 7060994475012035850
+    second: DAGRONS5_200
+  - first:
+      213: -4517092687919492373
+    second: DAGRONS5_201
+  - first:
+      213: -1753435329359493129
+    second: DAGRONS5_202
+  - first:
+      213: -4966879930485570305
+    second: DAGRONS5_203
+  - first:
+      213: 123444640337954438
+    second: DAGRONS5_204
+  - first:
+      213: -5905550097466455170
+    second: DAGRONS5_205
+  - first:
+      213: 6481031691363541883
+    second: DAGRONS5_206
+  - first:
+      213: 6943255522558126327
+    second: DAGRONS5_207
+  - first:
+      213: 7391002866643261578
+    second: DAGRONS5_208
+  - first:
+      213: -8799680077496456594
+    second: DAGRONS5_209
+  - first:
+      213: -5063845800023533332
+    second: DAGRONS5_210
+  - first:
+      213: -4552764528567790339
+    second: DAGRONS5_211
+  - first:
+      213: 7102541148346299442
+    second: DAGRONS5_212
+  - first:
+      213: 1809816349923009160
+    second: DAGRONS5_213
+  - first:
+      213: 2328264708467108460
+    second: DAGRONS5_214
+  - first:
+      213: -4014989536307426482
+    second: DAGRONS5_215
+  - first:
+      213: 5614480303838991109
+    second: DAGRONS5_216
+  - first:
+      213: -4938571171317832006
+    second: DAGRONS5_217
+  - first:
+      213: 5191260343604908932
+    second: DAGRONS5_218
+  - first:
+      213: 6766867681195127868
+    second: DAGRONS5_219
+  - first:
+      213: -7352349831445396222
+    second: DAGRONS5_220
+  - first:
+      213: -4385403013412431449
+    second: DAGRONS5_221
+  - first:
+      213: -3631678948914385282
+    second: DAGRONS5_222
+  - first:
+      213: -6206529983314223261
+    second: DAGRONS5_223
+  - first:
+      213: 1472590757409307792
+    second: DAGRONS5_224
+  - first:
+      213: 3146838488190374267
+    second: DAGRONS5_225
+  - first:
+      213: -2814470009845884795
+    second: DAGRONS5_226
+  - first:
+      213: -2945272166514606361
+    second: DAGRONS5_227
+  - first:
+      213: 3674308996289727548
+    second: DAGRONS5_228
+  - first:
+      213: -3301658793575728335
+    second: DAGRONS5_229
+  - first:
+      213: 2841773546606307055
+    second: DAGRONS5_230
+  - first:
+      213: -6035499194524749767
+    second: DAGRONS5_231
+  - first:
+      213: -6065507281859316601
+    second: DAGRONS5_232
+  - first:
+      213: 5793739035370150589
+    second: DAGRONS5_233
+  - first:
+      213: -1508025755175106090
+    second: DAGRONS5_234
+  - first:
+      213: -5642147079789355615
+    second: DAGRONS5_235
+  - first:
+      213: 8624221241136226394
+    second: DAGRONS5_236
+  - first:
+      213: -6923837194329730167
+    second: DAGRONS5_237
+  - first:
+      213: 3713034083014853872
+    second: DAGRONS5_238
+  - first:
+      213: -968807638087496640
+    second: DAGRONS5_239
+  - first:
+      213: 3053596948532058742
+    second: DAGRONS5_240
+  - first:
+      213: -3175788163525058395
+    second: DAGRONS5_241
+  - first:
+      213: 4493169998624168029
+    second: DAGRONS5_242
+  - first:
+      213: 1418062882825200267
+    second: DAGRONS5_243
+  - first:
+      213: -4813579012403873055
+    second: DAGRONS5_244
+  - first:
+      213: -1574753767500393189
+    second: DAGRONS5_245
+  - first:
+      213: 4023609815192211056
+    second: DAGRONS5_246
+  - first:
+      213: -7502643273847404854
+    second: DAGRONS5_247
+  - first:
+      213: 7818498319544436403
+    second: DAGRONS5_248
+  - first:
+      213: 4914092218296177340
+    second: DAGRONS5_249
+  - first:
+      213: -7972852583670411578
+    second: DAGRONS5_250
+  - first:
+      213: -884333499686304181
+    second: DAGRONS5_0
+  - first:
+      213: -6123313028037295673
+    second: DAGRONS5_1
+  - first:
+      213: -6176259144853007059
+    second: DAGRONS5_2
+  - first:
+      213: 6481136889226404107
+    second: DAGRONS5_3
+  - first:
+      213: 8399062375647529115
+    second: DAGRONS5_4
+  - first:
+      213: -3294913414244343779
+    second: DAGRONS5_5
+  - first:
+      213: 3556311267187188672
+    second: DAGRONS5_6
+  - first:
+      213: -3919097539006454611
+    second: DAGRONS5_7
+  - first:
+      213: 8928475564629370807
+    second: DAGRONS5_8
+  - first:
+      213: 4037466987734719086
+    second: DAGRONS5_9
+  - first:
+      213: 7232055495923688703
+    second: DAGRONS5_10
+  - first:
+      213: 2580249375560309482
+    second: DAGRONS5_11
+  - first:
+      213: -1519757772742746804
+    second: DAGRONS5_12
+  - first:
+      213: -3492398208385368346
+    second: DAGRONS5_13
+  - first:
+      213: 8613546100808136973
+    second: DAGRONS5_14
+  - first:
+      213: -6221683234351846895
+    second: DAGRONS5_15
+  - first:
+      213: -4837666604602047719
+    second: DAGRONS5_16
+  - first:
+      213: -700410015954691171
+    second: DAGRONS5_17
+  - first:
+      213: 107510211018928264
+    second: DAGRONS5_18
+  - first:
+      213: -1180112840376687594
+    second: DAGRONS5_19
+  - first:
+      213: -1160445178293552794
+    second: DAGRONS5_20
+  - first:
+      213: 105189175864810412
+    second: DAGRONS5_21
+  - first:
+      213: 8917548886360699155
+    second: DAGRONS5_22
+  - first:
+      213: 5107122128733875820
+    second: DAGRONS5_23
+  - first:
+      213: 712631224638706326
+    second: DAGRONS5_24
+  - first:
+      213: 7848002367167223841
+    second: DAGRONS5_25
+  - first:
+      213: 8336377023075323715
+    second: DAGRONS5_26
+  - first:
+      213: -6590615648984959696
+    second: DAGRONS5_27
+  - first:
+      213: 488281918163229976
+    second: DAGRONS5_28
+  - first:
+      213: 6134949334878713381
+    second: DAGRONS5_29
+  - first:
+      213: 2887915324610052886
+    second: DAGRONS5_30
+  - first:
+      213: 8428336001124755395
+    second: DAGRONS5_31
+  - first:
+      213: -2298333638122657062
+    second: DAGRONS5_32
+  - first:
+      213: -2206121101564801451
+    second: DAGRONS5_33
+  - first:
+      213: -5233728929958851323
+    second: DAGRONS5_34
+  - first:
+      213: 5655405183681248841
+    second: DAGRONS5_35
+  - first:
+      213: -249114481082114055
+    second: DAGRONS5_36
+  - first:
+      213: 2067010407947123486
+    second: DAGRONS5_37
+  - first:
+      213: 2404760301190942574
+    second: DAGRONS5_38
+  - first:
+      213: 3537909355717950109
+    second: DAGRONS5_39
+  - first:
+      213: -5802821786461429449
+    second: DAGRONS5_40
+  - first:
+      213: -460920626916293695
+    second: DAGRONS5_41
+  - first:
+      213: 4050412311064572225
+    second: DAGRONS5_42
+  - first:
+      213: -1077396125743286074
+    second: DAGRONS5_43
+  - first:
+      213: -3402075304721804318
+    second: DAGRONS5_44
+  - first:
+      213: -8554553814787801079
+    second: DAGRONS5_45
+  - first:
+      213: 1844466173252173498
+    second: DAGRONS5_46
+  - first:
+      213: -8253417622405366495
+    second: DAGRONS5_47
+  - first:
+      213: -7574644687605118575
+    second: DAGRONS5_48
+  - first:
+      213: 2118056187147080329
+    second: DAGRONS5_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DAGRONS5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4648301e573ab3f0800000000000000
+      internalID: -884333499686304181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 327
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1c0536e3f950ba0800000000000000
+      internalID: -6123313028037295673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 327
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25574ee705894aa0800000000000000
+      internalID: -6176259144853007059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 327
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01250789af91f950800000000000000
+      internalID: 6481136889226404107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 327
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98c1d20bb67f8470800000000000000
+      internalID: 8399062375647529115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 327
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10eb4af4bd1642d0800000000000000
+      internalID: -3294913414244343779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 277
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3696f514e8a5130800000000000000
+      internalID: 3556311267187188672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 277
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4a9637d819c99c0800000000000000
+      internalID: -3919097539006454611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 277
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b72d7f883158eb70800000000000000
+      internalID: 8928475564629370807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 277
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a5b4c75d6f70830800000000000000
+      internalID: 4037466987734719086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 277
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4617e082c6d5460800000000000000
+      internalID: 7232055495923688703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 277
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea1236e223eec320800000000000000
+      internalID: 2580249375560309482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 277
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d97039b5cb8eae0800000000000000
+      internalID: -1519757772742746804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_13
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 277
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eebafe3552888fc0800000000000000
+      internalID: -3492398208385368346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 227
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09be1bca86798770800000000000000
+      internalID: 8613546100808136973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 227
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a647fef0428a9a0800000000000000
+      internalID: -6221683234351846895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 227
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913cceaaad72ddcb0800000000000000
+      internalID: -4837666604602047719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 227
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b15e92dc4a746f0800000000000000
+      internalID: -700410015954691171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 227
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880b281a7f3fd7100800000000000000
+      internalID: 107510211018928264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_19
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 227
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614687acf956f9fe0800000000000000
+      internalID: -1180112840376687594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 227
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6697f76324545efe0800000000000000
+      internalID: -1160445178293552794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab53a58ff4b57100800000000000000
+      internalID: 105189175864810412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 177
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311b5b6077f71cb70800000000000000
+      internalID: 8917548886360699155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 177
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e28b3748420e640800000000000000
+      internalID: 5107122128733875820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_24
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 177
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6921178b256c3e900800000000000000
+      internalID: 712631224638706326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 177
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1285d6b8294b9ec60800000000000000
+      internalID: 7848002367167223841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 177
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f02260cb2c0b370800000000000000
+      internalID: 8336377023075323715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 177
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035fe1f5cfd6984a0800000000000000
+      internalID: -6590615648984959696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_28
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 177
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d9d5a41d9b6c600800000000000000
+      internalID: 488281918163229976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526f67c6ae7b32550800000000000000
+      internalID: 6134949334878713381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_30
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 127
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6130ac8dfafe31820800000000000000
+      internalID: 2887915324610052886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 127
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c76da210f677f470800000000000000
+      internalID: 8428336001124755395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_32
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 127
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada2e54bbbdaa10e0800000000000000
+      internalID: -2298333638122657062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 127
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e8cb1fb884261e0800000000000000
+      internalID: -2206121101564801451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_34
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 127
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d0e17844f0e57b0800000000000000
+      internalID: -5233728929958851323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_35
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 127
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e393a0d090c7e40800000000000000
+      internalID: 5655405183681248841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_36
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 127
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffd1b603b7fa8cf0800000000000000
+      internalID: -249114481082114055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b39b8b30f7fac10800000000000000
+      internalID: 2067010407947123486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_38
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 77
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f8272c0cc6f5120800000000000000
+      internalID: 2404760301190942574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_39
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 77
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a791b70dd291130800000000000000
+      internalID: 3537909355717950109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_40
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 77
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731a113745c387fa0800000000000000
+      internalID: -5802821786461429449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_41
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 77
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c30103c12b7a99f0800000000000000
+      internalID: -460920626916293695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_42
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 77
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1417fd27984f53830800000000000000
+      internalID: 4050412311064572225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c870b29ee15c01f0800000000000000
+      internalID: -1077396125743286074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_44
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 27
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e39dea098669c0d0800000000000000
+      internalID: -3402075304721804318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_45
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 27
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9004c9121ae184980800000000000000
+      internalID: -8554553814787801079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_46
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 27
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe7be0563cd89910800000000000000
+      internalID: 1844466173252173498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_47
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 27
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d3491a668f57d80800000000000000
+      internalID: -8253417622405366495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_48
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 27
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1994f7fe9c471e690800000000000000
+      internalID: -7574644687605118575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAGRONS5_49
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 27
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982583951e8d46d10800000000000000
+      internalID: 2118056187147080329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
